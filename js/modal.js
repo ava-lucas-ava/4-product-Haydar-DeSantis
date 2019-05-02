@@ -1,4 +1,4 @@
-<script>
+
 // Modal Image Gallery
 function onClick(element) {
   document.getElementById("img01").src = element.src;
@@ -23,4 +23,3 @@ function w3_open() {
 function w3_close() {
     mySidebar.style.display = "none";
 }
-</script>
